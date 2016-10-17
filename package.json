@@ -1,0 +1,37 @@
+{
+  "name": "form-builder-user-app",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "classname": "0.0.0",
+    "deep-equal": "^1.0.1",
+    "deepcopy": "^0.6.3",
+    "deepmerge": "^1.2.0",
+    "form-custom-components": "https://github.com/clearbridgesoft/form-custom-components/releases/download/v0.0.0/form-custom-components-0.0.0.tgz",
+    "invariant": "^2.2.1",
+    "is-client": "0.0.2",
+    "jsonschema": "^1.1.0",
+    "lodash.debounce": "^4.0.8",
+    "lodash.isobject": "^3.0.2",
+    "meteor-node-stubs": "^0.2.3",
+    "moment": "^2.14.1",
+    "radium": "^0.18.1",
+    "react": "^15.3.1",
+    "react-codemirror": "^0.2.6",
+    "react-contextmenu": "^1.6.3",
+    "react-datetime": "^2.5.0",
+    "react-dom": "^15.3.1",
+    "react-jsonschema-form": "https://github.com/clearbridgesoft/react-jsonschema-form/releases/download/v0.39.1/react-jsonschema-form-0.39.0.tgz",
+    "react-overlays": "^0.6.10",
+    "react-portal-tooltip": "^1.1.4",
+    "react-treebeard": "^1.1.4",
+    "react-ui-tree": "^2.5.0",
+    "redux": "^3.6.0",
+    "setimmediate": "^1.0.5",
+    "shallowequal": "^0.2.2",
+    "url": "^0.11.0",
+    "velocity-react": "^1.1.8"
+  }
+}
